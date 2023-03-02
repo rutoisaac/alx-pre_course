@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "ALX"
+mv echo "ALX" echo "ALX School is so cool!"
